@@ -1,5 +1,5 @@
 # MachineLearningTeam22
-# Good Neighbors Project: Predicting Noise Complaint Spikes
+# Good Neighbors, Quieter Nights: Modeling Noise Complaint Patterns Using 311 Data
 
 This repository contains a Jupyter notebook and associated data analysis aimed at predicting spikes in noise complaints using Allegheny County's 311 noise complaint data. The goal is to help local authorities proactively allocate resources and manage community disturbances effectively.
 
